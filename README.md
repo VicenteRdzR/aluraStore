@@ -31,7 +31,7 @@ Puedes instalar las dependencias con:
 
 ```bash
 pip install pandas matplotlib seaborn
-
+´´´
 ---
 
 ## ⚙️ Cómo Ejecutar el Proyecto
