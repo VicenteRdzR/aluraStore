@@ -31,7 +31,7 @@ Puedes instalar las dependencias con:
 
 ```bash
 pip install pandas matplotlib seaborn
-´´´
+```
 ---
 
 ## ⚙️ Cómo Ejecutar el Proyecto
@@ -48,6 +48,8 @@ pip install pandas matplotlib seaborn
 - Visualizar los gráficos generados.
 - Leer el análisis interpretativo y la conclusión final en el informe
 
+---
+
 ## 📈 Resultados
 
 La Tienda 4 fue identificada como la de menor rendimiento general, con:
@@ -59,6 +61,8 @@ La Tienda 4 fue identificada como la de menor rendimiento general, con:
     - Costos de envío más bajos (sin impacto positivo en resultados).
 
 Por lo tanto, se recomienda vender o reiniciar operaciones en esta tienda para emprender una nueva estrategia de negocio.
+
+---
 
 ## 🧑‍💻 Autor
 
